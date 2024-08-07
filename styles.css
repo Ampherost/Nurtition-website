@@ -27,7 +27,7 @@ body {
 }
 
 .meatButton:hover {
-    background-color: #c0392b;
+    opacity: 0.7;
 }
 
 .fruitButton {
@@ -41,7 +41,7 @@ body {
 }
 
 .fruitButton:hover {
-    background-color: cyan;
+    opacity: 0.7;
 }
 
 .vegetableButton {
@@ -55,7 +55,7 @@ body {
 }
 
 .vegetableButton:hover {
-    background-color: #2ecc71;
+    opacity: 0.7;
 }
 
 .grainsButton {
@@ -69,7 +69,7 @@ body {
 }
 
 .grainsButton:hover {
-    background-color: #f39c12;
+    opacity: 0.7;
 }
 
 /* Header */
