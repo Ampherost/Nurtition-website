@@ -24,6 +24,7 @@ body {
     cursor: pointer;
     background-color: red;
     color: white;
+    transition: opacity 0.1s;
 }
 
 .meatButton:hover {
@@ -42,6 +43,7 @@ body {
     cursor: pointer;
     background-color: blue;
     color: white;
+    transition: opacity 0.1s;
 }
 
 .fruitButton:hover {
@@ -60,6 +62,7 @@ body {
     cursor: pointer;
     background-color: green;
     color: white;
+    transition: opacity 0.1s;
 }
 
 .vegetableButton:hover {
@@ -78,6 +81,7 @@ body {
     cursor: pointer;
     background-color: brown;
     color: white;
+    transition: opacity 0.1s;
 }
 
 .grainsButton:hover {
