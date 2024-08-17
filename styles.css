@@ -30,6 +30,10 @@ body {
     opacity: 0.7;
 }
 
+.meatButton:active {
+    opacity: 0.5
+}
+
 .fruitButton {
     height: 40px;
     width: 80px;
@@ -42,6 +46,10 @@ body {
 
 .fruitButton:hover {
     opacity: 0.7;
+}
+
+.fruitButton:active {
+    opacity: 0.5
 }
 
 .vegetableButton {
@@ -58,6 +66,10 @@ body {
     opacity: 0.7;
 }
 
+.vegetableButton:active {
+    opacity: 0.5
+}
+
 .grainsButton {
     height: 40px;
     width: 80px;
@@ -70,6 +82,10 @@ body {
 
 .grainsButton:hover {
     opacity: 0.7;
+}
+
+.grainsButton:active {
+    opacity: 0.5
 }
 
 /* Header */
