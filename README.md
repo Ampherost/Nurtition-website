@@ -1,0 +1,1 @@
+This is a personal project involving the usage of html and css. I will probably add additional functionalities later but for now html and css will do. This projects aims to strengthen my knowledge of web development and showcase my personal interests in a fun and appealing way.
