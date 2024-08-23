@@ -92,6 +92,10 @@ body {
     opacity: 0.5
 }
 
+.food {
+    width: 250px;
+}
+
 /* Header */
 header {
     background: #333;
