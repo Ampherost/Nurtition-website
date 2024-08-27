@@ -94,6 +94,10 @@ body {
 
 .food {
     width: 250px;
+    object-fit: contain;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: red;
 }
 
 /* Header */
