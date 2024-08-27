@@ -21,7 +21,8 @@ body {
     margin: auto;
     display: flex; /* Enables Flexbox on the container */
     justify-content: space-between; /* Ensures sections are spaced evenly */
-    gap: 10px; /* Optional: adds space between the two sections */
+    gap: 10px; /* Adds space between the two sections */
+    max-width: 90%; /* Ensure the container has enough space */
 }
 
 .NutritionSection {
@@ -30,8 +31,7 @@ body {
     border-radius: 8px; /* Rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
     max-width: 800px; /* Limit the width */
-    margin: left; /* Center the section */
-    font-family: Arial, sans-serif; /* Use a clean font */
+    font-family: Arial, sans-serif; 
     display: inline-block;
 }
 
@@ -41,8 +41,8 @@ body {
     border-radius: 8px; /* Rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
     max-width: 800px; /* Limit the width */
-    margin: right; /* Center the section */
-    font-family: Arial, sans-serif; /* Use a clean font */
+    font-family: Arial, sans-serif; 
+    display: inline-block;
 }
 
 .meatButton {
