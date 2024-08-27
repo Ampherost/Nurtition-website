@@ -17,6 +17,13 @@ body {
     overflow: hidden;
 }
 
+.bodyContainer {
+    margin: auto;
+    display: flex; /* Enables Flexbox on the container */
+    justify-content: space-between; /* Ensures sections are spaced evenly */
+    gap: 10px; /* Optional: adds space between the two sections */
+}
+
 .NutritionSection {
     background-color: #f5f5f5; /* Light background color */
     padding: 20px; /* Spacing inside the section */
@@ -28,7 +35,7 @@ body {
     display: inline-block;
 }
 
-.NutritionSection2 {
+.FitnessSection {
     background-color: #f5f5f5; /* Light background color */
     padding: 20px; /* Spacing inside the section */
     border-radius: 8px; /* Rounded corners */
